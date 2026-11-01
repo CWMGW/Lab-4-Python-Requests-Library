@@ -1,0 +1,42 @@
+[
+    {
+        "round": 1,
+        "results": {
+            "Player 1": {
+                "card": "JACK of HEARTS",
+                "value": 11
+            },
+            "Player 2": {
+                "card": "7 of HEARTS",
+                "value": 7
+            },
+            "Player 3": {
+                "card": "7 of SPADES",
+                "value": 7
+            },
+            "Player 4": {
+                "card": "JACK of DIAMONDS",
+                "value": 11
+            },
+            "Player 5": {
+                "card": "5 of CLUBS",
+                "value": 5
+            },
+            "Player 6": {
+                "card": "3 of DIAMONDS",
+                "value": 3
+            },
+            "Player 7": {
+                "card": "6 of SPADES",
+                "value": 6
+            },
+            "Player 8": {
+                "card": "QUEEN of SPADES",
+                "value": 12
+            }
+        },
+        "top_players": [
+            "Player 8"
+        ]
+    }
+]
